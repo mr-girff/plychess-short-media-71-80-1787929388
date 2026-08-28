@@ -1,0 +1,48 @@
+1
+00:00:00,300 --> 00:00:04,752
+The Danish gambit trades pawns for open diagonals.
+
+2
+00:00:04,912 --> 00:00:09,365
+White hits the center before Black can develop.
+
+3
+00:00:09,525 --> 00:00:13,977
+The c pawn offers itself as a second piece of bait.
+
+4
+00:00:14,137 --> 00:00:18,590
+Black takes, but the bishop on c four is already active.
+
+5
+00:00:18,750 --> 00:00:23,203
+The b pawn runs forward and looks like another free prize.
+
+6
+00:00:23,363 --> 00:00:27,815
+White recaptures with the bishop and opens the b file.
+
+7
+00:00:27,975 --> 00:00:32,428
+Black strikes the center to slow down the attack.
+
+8
+00:00:32,587 --> 00:00:37,040
+White takes back and keeps every diagonal pointing forward.
+
+9
+00:00:37,200 --> 00:00:41,652
+The knight develops with tempo and protects the center.
+
+10
+00:00:41,812 --> 00:00:46,265
+Black answers with a pin, but the lead in development remains.
+
+11
+00:00:46,425 --> 00:00:50,877
+The lesson: activity is the compensation for sacrificed pawns.
+
+12
+00:00:51,037 --> 00:00:55,650
+Would you play the Danish gambit?
+
