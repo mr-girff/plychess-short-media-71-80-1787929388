@@ -1,0 +1,48 @@
+1
+00:00:00,300 --> 00:00:04,752
+This knight sacrifice drags the king into the center.
+
+2
+00:00:04,912 --> 00:00:09,365
+The Fried Liver starts with two natural developing moves.
+
+3
+00:00:09,525 --> 00:00:13,977
+White attacks the knight and forces the central break.
+
+4
+00:00:14,137 --> 00:00:18,590
+Black answers with a pawn hit, but the king is still uncastled.
+
+5
+00:00:18,750 --> 00:00:23,203
+The knight takes on d five and the trap is already visible.
+
+6
+00:00:23,363 --> 00:00:27,815
+White gives up the knight to remove the king's shelter.
+
+7
+00:00:27,975 --> 00:00:32,428
+The king takes, but that capture walks into a queen check.
+
+8
+00:00:32,587 --> 00:00:37,040
+Queen f three checks along the open file.
+
+9
+00:00:37,200 --> 00:00:41,652
+The king has to step forward instead of castling.
+
+10
+00:00:41,812 --> 00:00:46,265
+Now every developing move comes with tempo.
+
+11
+00:00:46,425 --> 00:00:50,877
+The lesson: count king safety before counting material.
+
+12
+00:00:51,037 --> 00:00:55,650
+Would you take the knight or decline the trap?
+
