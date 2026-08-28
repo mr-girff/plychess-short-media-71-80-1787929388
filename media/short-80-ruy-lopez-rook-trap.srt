@@ -1,0 +1,48 @@
+1
+00:00:00,300 --> 00:00:04,752
+This Ruy Lopez line turns a pawn chain into a tactical net.
+
+2
+00:00:04,912 --> 00:00:09,365
+White and Black race to claim the center.
+
+3
+00:00:09,525 --> 00:00:13,977
+The bishop retreats, but the a and b pawns gain space.
+
+4
+00:00:14,137 --> 00:00:18,590
+Black builds a chain that looks aggressive and secure.
+
+5
+00:00:18,750 --> 00:00:23,203
+White challenges the center before the chain can lock.
+
+6
+00:00:23,363 --> 00:00:27,815
+The f pawn advances and opens the e file.
+
+7
+00:00:27,975 --> 00:00:32,428
+White jumps with the knight and targets the back rank.
+
+8
+00:00:32,587 --> 00:00:37,040
+Black captures in the center, trying to open an escape square.
+
+9
+00:00:37,200 --> 00:00:41,652
+The knight takes on f seven and spots the rook on h eight.
+
+10
+00:00:41,812 --> 00:00:46,265
+Nxh eight wins the rook, while the passed pawn keeps running.
+
+11
+00:00:46,425 --> 00:00:50,877
+The lesson: a pawn chain can trap your own pieces.
+
+12
+00:00:51,037 --> 00:00:55,650
+Would you see the rook trap in time?
+
