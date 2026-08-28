@@ -1,0 +1,48 @@
+1
+00:00:00,300 --> 00:00:04,752
+The Englund gambit gives up the d pawn for immediate queen activity.
+
+2
+00:00:04,912 --> 00:00:09,365
+White takes, and Black develops with tempo.
+
+3
+00:00:09,525 --> 00:00:13,977
+The queen attacks e five and refuses to retreat quietly.
+
+4
+00:00:14,137 --> 00:00:18,590
+White develops the bishop instead of defending the pawn.
+
+5
+00:00:18,750 --> 00:00:23,203
+Black checks from b four and makes the queen a target.
+
+6
+00:00:23,363 --> 00:00:27,815
+The bishop blocks, but Black captures on b two.
+
+7
+00:00:27,975 --> 00:00:32,428
+The queen has won a pawn, yet it is now far from safety.
+
+8
+00:00:32,587 --> 00:00:37,040
+White develops the knight and starts gaining tempi.
+
+9
+00:00:37,200 --> 00:00:41,652
+Black jumps to b four to keep the initiative alive.
+
+10
+00:00:41,812 --> 00:00:46,265
+The knight reroutes and the c pawn hits the center.
+
+11
+00:00:46,425 --> 00:00:50,877
+The lesson: a queen can win material and still lose the game.
+
+12
+00:00:51,037 --> 00:00:55,650
+Would you accept the Englund gambit?
+
