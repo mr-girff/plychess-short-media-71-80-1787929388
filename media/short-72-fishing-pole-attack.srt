@@ -1,0 +1,48 @@
+1
+00:00:00,300 --> 00:00:04,752
+The knight on g four is not hanging by accident.
+
+2
+00:00:04,912 --> 00:00:09,365
+The Ruy Lopez gives both sides fast development.
+
+3
+00:00:09,525 --> 00:00:13,977
+Black jumps in with a move that dares White to capture.
+
+4
+00:00:14,137 --> 00:00:18,590
+White opens the center while the king is safe.
+
+5
+00:00:18,750 --> 00:00:23,203
+That pawn push looks like a free knight.
+
+6
+00:00:23,363 --> 00:00:27,815
+But the h pawn is part of the fishing pole.
+
+7
+00:00:27,975 --> 00:00:32,428
+White takes the bait and removes the knight.
+
+8
+00:00:32,587 --> 00:00:37,040
+Black recaptures and opens the g file immediately.
+
+9
+00:00:37,200 --> 00:00:41,652
+The queen arrives with a dangerous attack on h four.
+
+10
+00:00:41,812 --> 00:00:46,265
+Material is not the only thing hanging in this position.
+
+11
+00:00:46,425 --> 00:00:50,877
+The practical lesson is to ask what the bait attacks.
+
+12
+00:00:51,037 --> 00:00:55,650
+Would you grab the knight?
+
