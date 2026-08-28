@@ -1,0 +1,48 @@
+1
+00:00:00,300 --> 00:00:04,752
+A pinned knight can make a capture look completely safe.
+
+2
+00:00:04,912 --> 00:00:09,365
+The Queen's Gambit structure hides a tactical detail.
+
+3
+00:00:09,525 --> 00:00:13,977
+White develops the bishop and pins the f six knight.
+
+4
+00:00:14,137 --> 00:00:18,590
+Black supports the center and attacks the queen side.
+
+5
+00:00:18,750 --> 00:00:23,203
+The queen check creates pressure on the a file.
+
+6
+00:00:23,363 --> 00:00:27,815
+White reroutes the knight and Black pins the king knight.
+
+7
+00:00:27,975 --> 00:00:32,428
+After castling, the center finally starts to open.
+
+8
+00:00:32,587 --> 00:00:37,040
+Black takes the c pawn and appears to win material.
+
+9
+00:00:37,200 --> 00:00:41,652
+White removes the pinned knight with Bxf six.
+
+10
+00:00:41,812 --> 00:00:46,265
+The other knight recaptures and restores the balance.
+
+11
+00:00:46,425 --> 00:00:50,877
+The lesson: a pin is only real if the recapture is legal.
+
+12
+00:00:51,037 --> 00:00:55,650
+Would you spot the trap before taking?
+
