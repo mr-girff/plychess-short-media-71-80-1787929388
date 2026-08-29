@@ -1,0 +1,27 @@
+1
+00:00:00,000 --> 00:00:03,677
+The queen is bait in this famous opening trap.
+
+2
+00:00:03,757 --> 00:00:07,434
+White develops quickly while Black brings out the bishop.
+
+3
+00:00:07,514 --> 00:00:11,191
+The knight jumps into the center with a hidden idea.
+
+4
+00:00:11,271 --> 00:00:14,949
+Black captures the queen and thinks the game is over.
+
+5
+00:00:15,029 --> 00:00:18,706
+But the bishop check drags the king onto a dangerous square.
+
+6
+00:00:18,786 --> 00:00:22,463
+The final knight move closes every escape square.
+
+7
+00:00:22,543 --> 00:00:26,220
+Legal's Mate: never grab material before checking the attack.
